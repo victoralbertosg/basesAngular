@@ -11,9 +11,7 @@ import { HeroesModule } from './heroes/heroes.module';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    
-  
+    AppComponent  
   ],
  
   imports: [
